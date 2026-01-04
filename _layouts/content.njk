@@ -1,0 +1,11 @@
+{% extends "../_layouts/default.njk" %}
+{% block content %}
+<div class="text-center">
+  <div class="col-lg-7 mx-auto py-4">
+    <h1 class="py-3">{{ title }}</h1>
+    <div class="text-start fs-6 w-75 mx-auto">
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
+{% endblock %}

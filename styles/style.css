@@ -52,3 +52,8 @@ body {
     color: #7d7d7d;
     font-size: small;
 }
+
+blockquote {
+    border-left: 3px solid #9b9b9b;
+    padding-left: 15px;
+}

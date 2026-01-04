@@ -1,5 +1,8 @@
-# https://mcscr.jp
+# https://season1.mcscr.jp
 <small>_forked from ramenhimiko1220/scjp_minecraft_</small>
+
+> [!IMPORTANT]
+> Season Iが終了したため、ワールドデータが復活するまでは更新されません。
 
 > [!IMPORTANT]
 > v2.0.0から、このサイトは[Eleventy](https://11ty.dev)を使用するようになりました。\
